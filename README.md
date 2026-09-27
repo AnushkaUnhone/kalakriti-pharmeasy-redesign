@@ -1,4 +1,3 @@
-# kalakriti-pharmeasy-redesign
 # Kalakriti 2026 — PharmEasy Quick-Commerce Redesign
 
 **Theme:** Health & Well-Being
